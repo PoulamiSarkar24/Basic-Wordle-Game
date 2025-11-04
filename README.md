@@ -27,14 +27,6 @@ After each guess, the tiles will change color to indicate how close your guess w
 
 ---
 
-## 📂 Project Structure
-📁 wordle-game
-├── index.html # Main UI layout
-├── styles.css # Styling and animations
-└── script.js # Game logic
-
----
-
 ## 🚀 How to Play
 1. Play on keyboard or click the on-screen keys.
 2. Enter a **5-letter word**.
