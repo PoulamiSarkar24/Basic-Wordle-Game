@@ -1,4 +1,4 @@
-# 🎮 Bsic Wordle Game (Custom Version)
+# 🎮 Basic Wordle Game (Custom Version)
 
 This is a browser-based Wordle game built using **HTML**, **CSS**, and **JavaScript**.  
 The objective of the game is to guess the hidden 5-letter word within 6 attempts.  
