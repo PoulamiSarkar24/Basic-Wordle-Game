@@ -1,8 +1,9 @@
 # 🎮 Basic Wordle Game (Custom Version)
 
-This is a browser-based Wordle game built using **HTML**, **CSS**, and **JavaScript**.  
-The objective of the game is to guess the hidden 5-letter word within 6 attempts.  
-After each guess, the tiles will change color to indicate how close your guess was.
+Welcome to my custom Wordle game!  
+Guess the hidden word in just six tries.  
+Each guess gives you color-coded clues to help you get closer to the answer.  
+This project was made for learning, creativity, and fun — feel free to try, play, and share! 😄
 
 ---
 
