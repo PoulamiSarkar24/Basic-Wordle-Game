@@ -3,7 +3,7 @@
 Welcome to my custom Wordle game!  
 Guess the hidden word in just six tries.  
 Each guess gives you color-coded clues to help you get closer to the answer.  
-This project was made for learning, creativity, and fun — feel free to try, play, and share! 😄
+This project was made for learning, creativity, and fun - feel free to try, play, and share! 😄
 
 ---
 
